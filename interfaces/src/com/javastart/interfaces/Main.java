@@ -8,6 +8,5 @@ public class Main {
         lori.say();
         bublik.say();
 
-
     }
 }
